@@ -1,3 +1,3 @@
 # manchester-nightlife
 
-Let's find metal bars
+Let's find metal bars instead
